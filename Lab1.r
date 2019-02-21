@@ -23,7 +23,5 @@ plot(AnnualSalesData$t,AnnualSalesData$y,type="l",xlab="t",ylab="y")
 plot(AnnualSalesData$t,AnnualSalesData$ly,type="l",xlab="t",ylab="log(y)")
 plot(AnnualSalesData$t,AnnualSalesData$d1_y,type="l",xlab="t",ylab="diff(y)")
 plot(AnnualSalesData$t,AnnualSalesData$d1_ly,type="l",xlab="t",ylab="diff(log(y))")
-dev.new()
-plot(AnnualSalesData$t,AnnualSalesData$y,type="l")
-lines(AnnualSalesData$t,AnnualSalesData$ly)
+
 
