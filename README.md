@@ -1,0 +1,2 @@
+# ForecastingForBusinessAndFinance
+Class Exercises
